@@ -57,5 +57,5 @@ print(transcription)
 
 ```
 
-# Note
+# Contact
 Feel free to provide your valuable feed back or connect with me at [linkedin](https://www.linkedin.com/in/hassan-ali-emon/)
